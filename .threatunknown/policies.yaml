@@ -1,0 +1,7 @@
+# Threat Unknown checks every pull request in this repository against this file.
+# Change it here; Threat Unknown shows any difference on its GitHub page.
+version: 1
+require: []
+packs:
+  - "tu-recommended"
+exceptions: []
